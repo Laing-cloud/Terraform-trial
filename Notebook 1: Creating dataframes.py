@@ -1,6 +1,6 @@
 # Databricks notebook source
-# Notebook 1 
-
+# MAGIC %md
+# MAGIC # Notebook 1 
 
 # COMMAND ----------
 
